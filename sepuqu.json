@@ -1,0 +1,91 @@
+{
+    "project_name": "sepuqu",
+    "name": "Services publics",
+    "description": "Extraction des services publics.",
+    "source": {
+        "type": "csv",
+        "url": "https://raw.githubusercontent.com/nlehuby/sepuqu/refs/heads/gh-pages/services_publics.csv",
+        "source_url": ""
+    },
+    "transformations": [
+        {
+            "subproject_name": "police",
+            "team": [
+                "nlehuby",
+                "overflorian"
+            ],
+            "description": "Extraction des services de police municipale, gendarmerie et commissariat de police.",
+            "steps": [
+                {
+                    "function": "filter_by_column_values",
+                    "args": {
+                        "column": "categorie",
+                        "value_list": [
+                            "police_municipale",
+                            "gendarmerie",
+                            "commissariat_police"
+                        ]
+                    }
+                },
+                {
+                    "function": "filter_by_geometry",
+                    "args": {
+                        "longitude_column": "longitude",
+                        "latitude_column": "latitude",
+                        "filter_geometry_filename": "../idfm_perimeter.geojson"
+                    }
+                },
+                {
+                    "function": "keep_columns",
+                    "args": {
+                        "columns": [
+                            "official_name",
+                            "address_txt",
+                            "id"
+                        ],
+                        "export_name": "police.sepuqu.csv"
+                    }
+                }
+            ]
+        },
+        {
+            "subproject_name": "mairies et services publics",
+            "team": [
+                "nlehuby"
+            ],
+            "description": "Extraction de quelques catégories de services publics",
+            "steps": [
+                {
+                    "function": "filter_by_column_values",
+                    "args": {
+                        "column": "categorie",
+                        "value_list": [
+                            "mairie",
+                            "france_travail",
+                            "mjd"
+                        ]
+                    }
+                },
+                {
+                    "function": "filter_by_geometry",
+                    "args": {
+                        "longitude_column": "longitude",
+                        "latitude_column": "latitude",
+                        "filter_geometry_filename": "../idfm_perimeter.geojson"
+                    }
+                },
+                {
+                    "function": "keep_columns",
+                    "args": {
+                        "columns": [
+                            "official_name",
+                            "address_txt",
+                            "id"
+                        ],
+                        "export_name": "mairies_etc.sepuqu.csv"
+                    }
+                }
+            ]
+        }
+    ]
+}
