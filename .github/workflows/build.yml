@@ -1,6 +1,8 @@
 name: Cancan
 
 on:
+  schedule:
+    - cron:  '0 11 5 * *'
   push:
     branches-ignore:
       - "gh-pages"
@@ -24,10 +26,13 @@ jobs:
       - name: Install dependencies
         run: ./install.sh
       - name: Get data
+        id: get-data
         run: |
           cd cancan-cli
           uv run cli.py ../basilic.json
           uv run cli.py ../sepuqu.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy
         if: ${{ github.ref == 'refs/heads/main' }}
         uses: peaceiris/actions-gh-pages@v3

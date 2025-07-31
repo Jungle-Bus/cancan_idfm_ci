@@ -14,6 +14,11 @@
                 "nlehuby",
                 "overflorian"
             ],
+            "github_repo": "cancan_idfm_ci",
+            "github_user": "Jungle-Bus",
+            "topics": [
+                "police"
+            ],
             "description": "Extraction des services de police municipale, gendarmerie et commissariat de police.",
             "steps": [
                 {
@@ -45,6 +50,12 @@
                         ],
                         "export_name": "police.sepuqu.csv"
                     }
+                },
+                {
+                    "function": "diff",
+                    "args": {
+                        "archived_dataset_url": "https://github.com/Jungle-Bus/cancan_idfm_ci/raw/refs/heads/gh-pages/police.sepuqu.csv"
+                    }
                 }
             ]
         },
@@ -52,6 +63,11 @@
             "subproject_name": "mairies et services publics",
             "team": [
                 "nlehuby"
+            ],
+            "github_repo": "cancan_idfm_ci",
+            "github_user": "Jungle-Bus",             
+            "topics": [
+                "autre"
             ],
             "description": "Extraction de quelques catégories de services publics",
             "steps": [
@@ -83,6 +99,12 @@
                             "id"
                         ],
                         "export_name": "mairies_etc.sepuqu.csv"
+                    }
+                },
+                {
+                    "function": "diff",
+                    "args": {
+                        "archived_dataset_url": "https://github.com/Jungle-Bus/cancan_idfm_ci/raw/refs/heads/gh-pages/mairies_etc.sepuqu.csv"
                     }
                 }
             ]
