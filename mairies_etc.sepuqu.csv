@@ -283,6 +283,7 @@ Mairie - Bray-sur-Seine,Hôtel de ville de Bray-sur-Seine  1 place du Général-
 Mairie - Breuil-Bois-Robert,Rue de la Libération 78930 Breuil-Bois-Robert,be413ab8-7ac4-4fd2-9edb-f282d2ea2171
 Mairie - Breuillet,42 Grande rue 91650 Breuillet,2c3c7f2a-24fd-4f3b-8a5b-e72db06d81fa
 Mairie - Breux-Jouy,1 rue du Docteur-Babin 91650 Breux-Jouy,c2c4b1ab-9744-4e44-874e-c20b49236625
+Mairie - Bricqueville-la-Blouette,55 Route du Pont-de-la-Roque 50200 Bricqueville-la-Blouette,65121965-455f-48e0-85f7-c8a4bb9485ec
 Mairie - Brie-Comte-Robert,2 rue de Verdun 77170 Brie-Comte-Robert,2b2cf805-dd15-4c3f-ae22-164126d32443
 Mairie - Brignancourt,16 rue de la Mairie 95640 Brignancourt,1f099887-d46a-4dfe-8247-241dec0c4a95
 Mairie - Briis-sous-Forges,Place de la Libération 91640 Briis-sous-Forges,a38074c9-31b5-4bb4-b58c-6989c8913994
@@ -414,7 +415,7 @@ Mairie - Combs-la-Ville,Esplanade Charles-de-Gaulle 77300 Combs-la-Ville,3cd22b6
 Mairie - Commeny,39 Grande rue 95450 Commeny,823e77e3-f5dd-4def-8260-b1f81e97b8fb
 Mairie - Compans,1 rue de la Mairie 77290 Compans,59ac8a8c-63a9-4673-95df-b9c6fe4debcc
 Mairie - Conches-sur-Gondoire,6 place de l'église 77600 Conches-sur-Gondoire,48302552-b075-489e-88c3-baeb3aaee59a
-Mairie - Condé-Sainte-Libiaire,Rue de la Mairie 77450 Condé-Sainte-Libiaire,96aed90a-6aa8-44b4-82c7-88c3f5accf12
+Mairie - Condé-Sainte-Libiaire,2 rue de la Mairie 77450 Condé-Sainte-Libiaire,96aed90a-6aa8-44b4-82c7-88c3f5accf12
 Mairie - Condé-sur-Vesgre,37 rue de la Vesgre 78113 Condé-sur-Vesgre,c6684708-a0bb-49bc-88ef-2f31faf40d0c
 Mairie - Condécourt,37 rue de la Libération 95450 Condécourt,9ffda25c-2d66-43aa-ae6f-b2840d226823
 Mairie - Conflans-Sainte-Honorine,63 rue Maurice-Berteaux 78700 Conflans-Sainte-Honorine,37d78eee-dbb1-4e24-87bf-a39473aceb46
@@ -505,7 +506,7 @@ Mairie - Flagy,Place de l'Église 77940 Flagy,a495bc42-42b3-43b7-a9b0-447469ced9
 Mairie - Fleury-Mérogis,12 rue Roger-Clavier 91700 Fleury-Mérogis,fe805248-5baf-4a54-a9be-a7ad57b3ca2c
 Mairie - Fleury-en-Bière,6 rue du Cardinal-Richelieu 77930 Fleury-en-Bière,cad22c37-1e4f-4d83-90ad-2071a9d40173
 Mairie - Flexanville,3 rue de la Mairie 78910 Flexanville,766e908f-308b-405b-a600-de3bd048a2f5
-Mairie - Flins-Neuve-Église,Grande rue 78790 Flins-Neuve-Église,5d9f3e41-9114-42be-99f7-278711dd6bfe
+Mairie - Flins-Neuve-Église,Grande-Rue 78790 Flins-Neuve-Église,5d9f3e41-9114-42be-99f7-278711dd6bfe
 Mairie - Flins-sur-Seine,Parc Jean-Boileau 78410 Flins-sur-Seine,f6070a87-4e9e-4969-8f07-c703019e8ebc
 Mairie - Follainville-Dennemont,2 place de la Mairie 78520 Follainville-Dennemont,44fe1af9-cf55-4e0d-94b7-ea32201bb80e
 Mairie - Fontaine-Fourches,23 rue Saint-Martin 77480 Fontaine-Fourches,7d4548b5-7e2c-494c-9e76-bab0ef31a668
@@ -921,7 +922,7 @@ Mairie - Mulcent,Place de la Mairie 78790 Mulcent,8e714b3b-4270-4093-8e35-1ed3b3
 Mairie - Médan,18 rue de Verdun 78670 Médan,2ad915fa-9679-494a-87cb-d3c81d4e21fd
 Mairie - Ménerville,Place de la Gare 78200 Ménerville,e2358ac4-c1fc-40c8-bc29-3f09e9472807
 Mairie - Méricourt,22 Grande rue 78270 Méricourt,207d6b75-0d73-4774-9e1a-651714413c54
-Mairie - Mériel,62 Grande rue 95630 Mériel,102dca36-dbdd-4d70-ba7d-75530fe484cb
+Mairie - Mériel,62 Grande-Rue 95630 Mériel,102dca36-dbdd-4d70-ba7d-75530fe484cb
 Mairie - Mérobert,1 place de l'Église 91780 Mérobert,7c28632c-24a0-431b-8f52-1736cb6df530
 Mairie - Méry-sur-Marne,7 route Jean-de-la-Fontaine 77730 Méry-sur-Marne,8a67c363-7169-47c4-9207-fb2a18ee278d
 Mairie - Méry-sur-Oise,14 avenue Marcel-Perrin 95540 Méry-sur-Oise,9d9db3aa-8786-416f-936b-50ca682f5257
@@ -999,7 +1000,6 @@ Mairie - Paray-Douaville,1 rue du Buisson-à-l'Oiseau 78660 Paray-Douaville,c0e6
 Mairie - Paray-Vieille-Poste,Place Henri-Barbusse 91551 Paray-Vieille-Poste,40449c27-2343-4a87-b704-99df54d773e4
 Mairie - Paris - 10e arrondissement,72 rue du Faubourg-Saint-Martin 75010 Paris,48ff8263-27f0-4e53-bcf8-103688dba80e
 Mairie - Paris - 11e arrondissement,12 place Léon-Blum 75011 Paris,08fd0b09-e446-426d-a64d-876bcb6a74a0
-Mairie - Paris - 12e arrondissement,130 avenue Daumesnil 75012 Paris,55361e18-31e6-40ce-9492-a5c4a4e92efc
 Mairie - Paris - 13e arrondissement,1 place d'Italie 75013 Paris,00053c80-6183-4252-a5dd-b4831440c7d0
 Mairie - Paris - 14e arrondissement,2 place Ferdinand-Brunot 75014 Paris,1a28b686-1d86-4b8a-bd4c-e6d9e97c1e42
 Mairie - Paris - 15e arrondissement,31 rue Péclet 75015 Paris,55cb6240-173d-47f8-8d76-79d53858e418
@@ -1110,7 +1110,6 @@ Mairie - Saint-Cyr-l'École,Square de l'Hôtel-de-Ville 78210 Saint-Cyr-l'École
 Mairie - Saint-Cyr-la-Rivière,Rue du Château 91690 Saint-Cyr-la-Rivière,09fbf855-5287-4636-ad08-5f3c8c1e390c
 Mairie - Saint-Cyr-sous-Dourdan,1 route de Paris 91410 Saint-Cyr-sous-Dourdan,896f5424-5f5f-4155-b936-de66dcf4f1fb
 Mairie - Saint-Cyr-sur-Morin,Avenue Daniel-Simon 77750 Saint-Cyr-sur-Morin,803d9313-4184-4bc6-8622-d4dfd2ef6d28
-Mairie - Saint-Côme-d'Olt,6 rue Saint Damien  12500 Saint-Côme-d'Olt,efebdfb5-7c55-4c9a-9483-d2d665fae1be
 Mairie - Saint-Denis,2 place du Caquet 93200 Saint-Denis,73ad7558-2bf1-417e-8d98-9f064514edd2
 Mairie - Saint-Denis-lès-Rebais,8 rue de la Mairie 77510 Saint-Denis-lès-Rebais,b633833a-5956-4e9e-a7b7-fdc620d06b18
 Mairie - Saint-Escobille,Hôtel de Ville  2 rue du Château 91410 Saint-Escobille,a70cb341-1904-4c74-9752-d86d4b46d123

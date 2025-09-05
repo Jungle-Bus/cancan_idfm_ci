@@ -330,7 +330,7 @@ Musée,musée Carnavalet - histoire de Paris,23 r. de Sévigné 75003 Paris 3e A
 Musée,musée Daubigny,Manoir des Colombières 95430 Auvers-sur-Oise,Auvers-sur-Oise
 Musée,musée d'art moderne de la ville de Paris,11 av. du Président Wilson 75016 Paris 16e Arrondissement,Paris 16e Arrondissement
 Musée,musée des Plans-reliefs,129 r. de Grenelle 75007 Paris 7e Arrondissement,Paris 7e Arrondissement
-Musée,musée du Louvre,"Musée du Louvre, 75058 Paris Cedex 01 75000 Paris",Paris
+Musée,musée du Louvre,Musée du Louvre 75001 Paris 1er Arrondissement,Paris 1er Arrondissement
 Musée,muséum national d'histoire naturelle,2 r. Buffon 75005 Paris 5e Arrondissement,Paris 5e Arrondissement
 Musée,"ARCHÉA, Archéologie en Pays de France",56 r. de Paris 95380 Louvres,Louvres
 Musée,Crypte Archéologique du Parvis Notre-Dame,7 pl. Jean Paul Ii Parvis Notre-Dame 75004 Paris 4e Arrondissement,Paris 4e Arrondissement
@@ -534,7 +534,7 @@ Bibliothèque,Bibliotheque Intercommunale de Morigny-Champigny,3 r. Au Comte 911
 Bibliothèque,Bibliotheque Jean Anouilh,16 bis r. Jean Moulin 78711 Mantes-la-Ville,Mantes-la-Ville
 Bibliothèque,Bibliotheque Jean Sterlin de Vaires-sur-Marne,31-33 av. Jean Jaures 77360 Vaires-sur-Marne,Vaires-sur-Marne
 Bibliothèque,Bibliotheque Jules-Verne,73 av. Edouard Vaillant 93500 Pantin,Pantin
-Bibliothèque,Bibliotheque Le Temps Libre,0 78790 Arnouville-lès-Mantes,Arnouville-lès-Mantes
+Bibliothèque,Bibliotheque Le Temps Libre,78790 Arnouville-lès-Mantes,Arnouville-lès-Mantes
 Bibliothèque,Bibliotheque Montesquieu,13 av. Jean Mermoz 91170 Viry-Châtillon,Viry-Châtillon
 Bibliothèque,Bibliotheque Multimédia PAUL ELUARD,1 pl. de la Jamais Contente 78260 Achères,Achères
 Bibliothèque,Bibliotheque Municipale,105 r. du Vie 78520 Saint-Martin-la-Garenne,Saint-Martin-la-Garenne
@@ -652,7 +652,7 @@ Bibliothèque,Bibliothèque Benoîte Groult,80 av. du Maine 75014 Paris 14e Arro
 Bibliothèque,Bibliothèque Billancourt,11 r. de Clamart 92100 Boulogne-Billancourt,Boulogne-Billancourt
 Bibliothèque,Bibliothèque Bouquins-Bouquine,20 r. de la Poste 77440 Congis-sur-Thérouanne,Congis-sur-Thérouanne
 Bibliothèque,Bibliothèque Buffon,15 bis r. Buffon 75005 Paris 5e Arrondissement,Paris 5e Arrondissement
-Bibliothèque,Bibliothèque C.B.P.T. Chavenay,0 78450 Chavenay,Chavenay
+Bibliothèque,Bibliothèque C.B.P.T. Chavenay,78450 Chavenay,Chavenay
 Bibliothèque,Bibliothèque Carré Médicis,5 r. Saint-Hilaire 94100 Saint-Maur-des-Fossés,Saint-Maur-des-Fossés
 Bibliothèque,Bibliothèque Centrale,5 r. Indépendance Américaine 78000 Versailles,Versailles
 Bibliothèque,Bibliothèque Centrale Albert Camus,6 r. de la Gare 93270 Sevran,Sevran
@@ -679,7 +679,7 @@ Bibliothèque,Bibliothèque De Fresnes Sur Marne,18 r. de l'Ourcq 77410 Fresnes-
 Bibliothèque,Bibliothèque De Gouaix,1 r. de la Poste 77114 Gouaix,Gouaix
 Bibliothèque,Bibliothèque De Goupillières,24 Vallée Penaut 78770 Goupillières,Goupillières
 Bibliothèque,Bibliothèque De Gouvernes,1 r. Saint Germain 77400 Gouvernes,Gouvernes
-Bibliothèque,Bibliothèque De Jumeauville,0 78580 Jumeauville,Jumeauville
+Bibliothèque,Bibliothèque De Jumeauville,78580 Jumeauville,Jumeauville
 Bibliothèque,Bibliothèque De L'Université Ouverte,6 imp. des Gendarmes 78000 Versailles,Versailles
 Bibliothèque,Bibliothèque De L'association du Foyer Rural de Cernay la Vi,6 r. de la Ferme 78720 Cernay-la-Ville,Cernay-la-Ville
 Bibliothèque,Bibliothèque De L'heure Bleue,1 r. Côte Guépin 78790 Septeuil,Septeuil
@@ -742,7 +742,7 @@ Bibliothèque,Bibliothèque Marguerite Yourcenar,1 r. Neuve 77176 Nandy,Nandy
 Bibliothèque,Bibliothèque Marguerite-Yourcenar,6 pl. Nelson Mandela 93270 Sevran,Sevran
 Bibliothèque,Bibliothèque Marianne Chauconin-Neufmontiers,r. Charles Peguy 77124 Chauconin-Neufmontiers,Chauconin-Neufmontiers
 Bibliothèque,Bibliothèque Maurice Genevoix,19 r. Tristan Tzara 75018 Paris 18e Arrondissement,Paris 18e Arrondissement
-Bibliothèque,Bibliothèque Meuniers Brouets,0 78711 Mantes-la-Ville,Mantes-la-Ville
+Bibliothèque,Bibliothèque Meuniers Brouets,78711 Mantes-la-Ville,Mantes-la-Ville
 Bibliothèque,Bibliothèque Micro Folie,pl. Pierre Magnon 77120 Coulommiers,Coulommiers
 Bibliothèque,Bibliothèque Mille Pages,pl. de la Mairie 77166 Grisy-Suisnes,Grisy-Suisnes
 Bibliothèque,Bibliothèque Mille Pages De Saint Méry,22 r. de l'Eglise 77720 Saint-Méry,Saint-Méry
@@ -794,7 +794,7 @@ Bibliothèque,Bibliothèque Municipale Le  Colombier,r. du Château 91470 Angerv
 Bibliothèque,Bibliothèque Municipale Louis Aragon,23 r. de Paris 94340 Joinville-le-Pont,Joinville-le-Pont
 Bibliothèque,Bibliothèque Municipale Mairie,1 pl. de la Mairie 95450 Ableiges,Ableiges
 Bibliothèque,Bibliothèque Municipale Mairie de Brueil en Vexin,1 r. de la Poste 78440 Brueil-en-Vexin,Brueil-en-Vexin
-Bibliothèque,Bibliothèque Municipale Orgerus,1 78910 Orgerus,Orgerus
+Bibliothèque,Bibliothèque Municipale Orgerus,78910 Orgerus,Orgerus
 Bibliothèque,Bibliothèque Municipale Ouvrez les guillemets,97 Grande Rue 91490 Oncy-sur-École,Oncy-sur-École
 Bibliothèque,Bibliothèque Municipale Raymond Queneau,pl. Aristide Briand 91470 Limours,Limours
 Bibliothèque,Bibliothèque Municipale Rose Bily,4 bis av. de la Gare 78820 Juziers,Juziers
@@ -878,9 +878,9 @@ Bibliothèque,Bibliothèque de Flins Sur Seine bibloithèque associative,Parc Je
 Bibliothèque,Bibliothèque de Frépillon,2 r. de Coudray 95740 Frépillon,Frépillon
 Bibliothèque,Bibliothèque de Féricy,Féricy 77133 Féricy,Féricy
 Bibliothèque,Bibliothèque de Férolles-Attilly,45 r. Grande Rue 77150 Férolles-Attilly,Férolles-Attilly
-Bibliothèque,Bibliothèque de Gaillon-sur-Montcient,0 78250 Gaillon-sur-Montcient,Gaillon-sur-Montcient
+Bibliothèque,Bibliothèque de Gaillon-sur-Montcient,78250 Gaillon-sur-Montcient,Gaillon-sur-Montcient
 Bibliothèque,Bibliothèque de Galluis,7 r. de Montfort 78490 Galluis,Galluis
-Bibliothèque,Bibliothèque de Jambville,0 78440 Jambville,Jambville
+Bibliothèque,Bibliothèque de Jambville,78440 Jambville,Jambville
 Bibliothèque,Bibliothèque de Jouy-Mauvoisin,pl. de la Mairie 78200 Jouy-Mauvoisin,Jouy-Mauvoisin
 Bibliothèque,Bibliothèque de La Boissiere Ecole,19 r. des Ecoles 78125 La Boissière-École,La Boissière-École
 Bibliothèque,Bibliothèque de La Brosse-Montceaux Mairie,27 r. Grande 77940 La Brosse-Montceaux,La Brosse-Montceaux
@@ -908,7 +908,7 @@ Bibliothèque,Bibliothèque de l'Orme,207 r. de la Mairie 91690 Guillerval,Guill
 Bibliothèque,Bibliothèque de la Fourche,216 av. Jean Jaurés 92140 Clamart,Clamart
 Bibliothèque,Bibliothèque des Louvrais,av. Redouane Bougara 95000 Pontoise,Pontoise
 Bibliothèque,Bibliothèque des Mesnuls,6 Grande Rue 78490 Les Mesnuls,Les Mesnuls
-Bibliothèque,Bibliothèque du Domaine,0 78711 Mantes-la-Ville,Mantes-la-Ville
+Bibliothèque,Bibliothèque du Domaine,78711 Mantes-la-Ville,Mantes-la-Ville
 Bibliothèque,Bibliothèque du Foyer rural d'Omerville,r. de l'Ecole 95420 Omerville,Omerville
 Bibliothèque,Bibliothèque du Foyer rural de Nucourt,1 r. du Puits 95420 Nucourt,Nucourt
 Bibliothèque,Bibliothèque du Jardin Parisien,20 r. du Parc 92140 Clamart,Clamart
@@ -991,7 +991,7 @@ Bibliothèque,Bibliothèque municipale de Villiers-Adam,9 r. Benjamin Godard 958
 Bibliothèque,Bibliothèque municipale de Vulaines-sur-Seine,6 r. Riché 77870 Vulaines-sur-Seine,Vulaines-sur-Seine
 Bibliothèque,Bibliothèque municipale du Mesnil,pl. de la Mairie 95720 Le Mesnil-Aubry,Le Mesnil-Aubry
 Bibliothèque,Bibliothèque municipale du Vaudoué,2 r. des Acacias 77123 Le Vaudoué,Le Vaudoué
-Bibliothèque,Bibliothèque patrimoniale de l’Ecole Estienne,18 bd Auguste-Blanqui 75000 Paris,Paris
+Bibliothèque,Bibliothèque patrimoniale de l’Ecole Estienne,18 bd Auguste-Blanqui 75013 Paris 13e Arrondissement,Paris 13e Arrondissement
 Bibliothèque,Bibliothèque territoriale,75 r. du Lieutenant Dagorno 94440 Villecresnes,Villecresnes
 Bibliothèque,Bibliothèque-Auditorium,74 av. du General Leclerc 78220 Viroflay,Viroflay
 Bibliothèque,Bibliothèque-Médiathèque,152 av. Danielle Casanova 94200 Ivry-sur-Seine,Ivry-sur-Seine
@@ -1009,7 +1009,6 @@ Bibliothèque,Centre Ressources Lecture Aladin,2 r. Henri Barbusse 93200 Saint-D
 Bibliothèque,Centre commun de traitement des documents Direction -Services internes  - Pôle réseau des médiathèques,9 av. de l'Escouvrier 95200 Sarcelles,Sarcelles
 Bibliothèque,Cercle Des Lecteurs De Mareil-Marly,5 pl. de la Mairie 78750 Mareil-Marly,Mareil-Marly
 Bibliothèque,Club  Bibliothèque Le  village,pl. de la Mairie 91160 Champlan,Champlan
-Bibliothèque,Communauté de Communes Moret-Seine-et-Loing,all. Gustave Prugnat 77250 Moret-Loing-et-Orvanne,Moret-Loing-et-Orvanne
 Bibliothèque,Courtobiblio,1 bis r. du Vieux Château 77390 Courtomer,Courtomer
 Bibliothèque,Culture Et Bibliotheque Pour Tous,3 pl. de la Fontaine 78770 Thoiry,Thoiry
 Bibliothèque,Culture Et Bibliothèque Pour Tous,pl. du Jeu de Paume 78640 Neauphle-le-Château,Neauphle-le-Château
