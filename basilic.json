@@ -62,7 +62,8 @@
                 {
                     "function": "diff",
                     "args": {
-                        "archived_dataset_url": "https://github.com/Jungle-Bus/cancan_idfm_ci/raw/refs/heads/gh-pages/muses_etc.basilic.csv"
+                        "archived_dataset_url": "https://github.com/Jungle-Bus/cancan_idfm_ci/raw/refs/heads/gh-pages/muses_etc.basilic.csv",
+                        "label_column": "Nom"
                     }
                 }
             ]
