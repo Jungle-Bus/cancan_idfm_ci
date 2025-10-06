@@ -4,9 +4,9 @@
     "description": "Extraction des lieux et équipements culturels.",
     "source": {
         "type": "csv",
-        "url": "https://www.data.gouv.fr/api/1/datasets/r/dced78ee-0823-4b61-86e6-57717308d4e4",
+        "url": "https://data.culture.gouv.fr/api/explore/v2.1/catalog/datasets/base-des-lieux-et-des-equipements-culturels/exports/csv?lang=fr&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B",
         "csv_separator": ";",
-        "source_url": "https://www.data.gouv.fr/datasets/base-des-lieux-et-equipements-culturels-basilic"
+        "source_url": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/information"
     },
     "transformations": [
         {
