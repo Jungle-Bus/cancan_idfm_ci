@@ -96,7 +96,6 @@ France Travail - Puteaux,116 rue de Verdun 92800 Puteaux,525b36a6-8810-4593-8e62
 France Travail - Rambouillet,1 rue Claude-Chappe 78120 Rambouillet,8489b6c1-2532-4011-8131-ad9f1aeef816
 France Travail - Rosny-sous-Bois,6 rue de Rome 93110 Rosny-sous-Bois,5db438b2-385d-4c3a-82cd-f4acbfed3a29
 France Travail - Rueil-Malmaison,128 rue Danton 92500 Rueil-Malmaison,7c8f9b3b-9008-414d-8e53-e9feefaf303b
-France Travail - Saint-Denis,5 avenue du Colonel-Fabien 93200 Saint-Denis,f581bc90-7498-4ac5-b611-cf23145be325
 France Travail - Saint-Germain-en-Laye,101 rue Pereire 78100 Saint-Germain-en-Laye,8f4f823c-eaae-4f44-b925-bc4a09870587
 France Travail - Saint-Gratien,6 rue du Maréchal-Juin 95210 Saint-Gratien,e380d95d-0672-4fd1-b41b-5f20a3930d8b
 France Travail - Saint-Maur-des-Fossés,16 rue Léon-Bocquet 94100 Saint-Maur-des-Fossés,9c00f77d-8184-400c-a518-0535fcb865b7
@@ -111,7 +110,6 @@ France Travail - Sevran,2 rue Paul-Langevin 93270 Sevran,2bcd40e9-ab99-4738-ac65
 France Travail - Stains,35 rue du Moulin-Neuf 93240 Stains,fb027050-c8d5-4bd4-9998-4b41424ea9fe
 France Travail - Sucy-en-Brie,9 allée du Pacifique 94370 Sucy-en-Brie,69287708-b479-45ee-bcb8-44c30f9e1c50
 France Travail - Taverny,47 rue de Montmorency 95150 Taverny,860757d5-1e4f-4c08-b38b-39bb0d6fbd29
-France Travail - Torcy,11 promenade du Belvédère 77200 Torcy,fd392b85-7b4a-4b19-b5c0-17048f0d5a4c
 France Travail - Trappes,130 avenue des Bouleaux 78190 Trappes,9262f3a2-8d22-4bfa-a0f4-6894b5e66081
 France Travail - Tremblay-en-France,43 avenue Nelson-Mandela 93290 Tremblay-en-France,6e39f4d4-e990-42dc-b9a7-2a86baf5fb95
 France Travail - Versailles,24 rue de Vergennes 78000 Versailles,99590518-1961-49ba-ac73-00ca088b612a
@@ -146,9 +144,9 @@ Mairie - Andrésy,Hôtel de Ville  4 boulevard Noël-Marc 78570 Andrésy,846ef08
 Mairie - Angerville,34 rue Nationale 91670 Angerville,3172533b-266a-4eb3-a860-367ae11f385c
 Mairie - Angervilliers,1 rue du Château 91470 Angervilliers,64759ce7-c455-4624-a7c1-0143ef528afc
 Mairie - Annet-sur-Marne,38 rue Paul-Valentin 77410 Annet-sur-Marne,bf13e150-365a-44a1-b5f5-b39ea360c316
-Mairie - Antony,Place de l'Hôtel-de-Ville 92160 Antony,54260182-e2ff-4a92-891e-9d43b932cae8
+Mairie - Antony,1 place Auguste-Mounié 92160 Antony,54260182-e2ff-4a92-891e-9d43b932cae8
 Mairie - Arbonne-la-Forêt,58 rue de la Mairie 77630 Arbonne-la-Forêt,9b65803b-4bcc-4e75-8b5e-ac0b45716df7
-Mairie - Arcueil,42 rue Cauchy 94110 Arcueil,c177c786-4474-436a-9aa7-1492d5c7627e
+Mairie - Arcueil,10 avenue Paul-Doumer 94110 Arcueil,c177c786-4474-436a-9aa7-1492d5c7627e
 Mairie - Argenteuil,12-14 boulevard Léon-Feix 95100 Argenteuil,5e27d725-abf2-4cc1-85fb-c7da1f2999c0
 Mairie - Argentières,Place de l'Église 77390 Argentières,4aca9232-ec73-4db2-8adf-c67fb26faf2c
 Mairie - Armentières-en-Brie,9 rue du Chef-de-Ville 77440 Armentières-en-Brie,88f0cd29-0b15-45fd-b698-9c58a23f2a7a
@@ -257,7 +255,7 @@ Mairie - Bondoufle,43 rue Charles-de-Gaulle 91070 Bondoufle,1e77ff29-56c1-41c8-9
 Mairie - Bondy,Esplanade Claude-Fuzier 93143 Bondy Cedex,eb1dff87-9ca8-4f58-96f2-823afc7de6a4
 Mairie - Bonnelles,22 rue de la Libération 78830 Bonnelles,3821ebba-d838-43c4-8fd7-2bf2a109b587
 Mairie - Bonneuil-en-France,15 rue de Gonesse 95500 Bonneuil-en-France,76c2115a-4ec2-4773-94e7-ed4909e59bbb
-Mairie - Bonneuil-sur-Marne,7 rue d'Estienne-d'Orves 94380 Bonneuil-sur-Marne,01befebc-084e-4b13-ba83-fa49ee6e8ee8
+Mairie - Bonneuil-sur-Marne,7 rue d'Estienne-d'Orves 94380 Bonneuil-sur-Marne Cedex,01befebc-084e-4b13-ba83-fa49ee6e8ee8
 Mairie - Bonnières-sur-Seine,7 rue Georges-Herrewyn 78270 Bonnières-sur-Seine,1540d36b-c755-4f42-8229-e706fb5b2e73
 Mairie - Bouafle,1 place Érambert 78410 Bouafle,8b8c49c9-0b02-421a-af29-3dc8f9c12bf0
 Mairie - Bouffémont,45 rue de la République 95570 Bouffémont,6d8f431a-6ef7-4780-99ab-267c61e18d76
@@ -482,7 +480,7 @@ Mairie - Dormelles,14 rue de la Mairie 77130 Dormelles,c60406e7-d718-4b14-99f9-c
 Mairie - Doue,1 bis rue Champenois 77510 Doue,59a7c319-91dc-420d-9a53-b845577c0e31
 Mairie - Dourdan,Esplanade Jean-Moulin 91410 Dourdan Cedex,f82afbcd-1737-4788-9516-6ecbfca6f2bd
 Mairie - Douy-la-Ramée,2 rue du Sac 77139 Douy-la-Ramée,a752d301-0fce-4d6e-87e9-3b12ecf6eacd
-Mairie - Drancy,Place de l'Hôtel-de-Ville 93700 Drancy,617abe4b-a3ab-41a1-9fc9-b76c030f46c3
+Mairie - Drancy,1 place de l'Hôtel-de-Ville 93700 Drancy,617abe4b-a3ab-41a1-9fc9-b76c030f46c3
 Mairie - Draveil,3 avenue de Villiers 91210 Draveil,e902f732-c79d-477b-9049-c12dbb237975
 Mairie - Drocourt,1 rue du Gué 78440 Drocourt,d10004e7-4fa4-4e16-90ea-c07739d8bd42
 Mairie - Dugny,1 rue de la Résistance 93440 Dugny,ab1abcbe-ed56-42a2-8af5-9ab277579e03
@@ -928,7 +926,7 @@ Mairie - Méry-sur-Marne,7 route Jean-de-la-Fontaine 77730 Méry-sur-Marne,8a67c
 Mairie - Méry-sur-Oise,14 avenue Marcel-Perrin 95540 Méry-sur-Oise,9d9db3aa-8786-416f-936b-50ca682f5257
 Mairie - Méré,Square Raoul-Breton 78490 Méré,b6f1c8ae-2654-4488-879d-1215ac5e90b7
 Mairie - Mézières-sur-Seine,Place du Commandant-Grimblot 78970 Mézières-sur-Seine,4de4d599-692d-4679-a8c0-d5b0140bbd2b
-Mairie - Mézy-sur-Seine,Place Paul-Bargeton 78250 Mézy-sur-Seine,056e83e3-a350-4170-8ced-df0465318d29
+Mairie - Mézy-sur-Seine,1 place Paul-Bargeton 78250 Mézy-sur-Seine,056e83e3-a350-4170-8ced-df0465318d29
 Mairie - Nainville-les-Roches,Place de la Mairie 91750 Nainville-les-Roches,6562a56e-06c4-4e5b-acf0-daed26ce5ace
 Mairie - Nandy,9 place de la Mairie 77176 Nandy,fc4dc1a3-6c66-4e6f-a341-5537b5684429
 Mairie - Nangis,Rue du Maréchal-de-Lattre-de-Tassigny 77370 Nangis,5c097a78-9aaf-4904-8ec2-1a85b7ebb277
@@ -961,7 +959,7 @@ Mairie - Noisy-le-Sec,Place du Maréchal-Foch 93134 Noisy-le-Sec,6492d223-530f-4
 Mairie - Noisy-sur-Oise,9 rue Jules-Ferry 95270 Noisy-sur-Oise,66cbd8cb-d1dc-4065-96aa-bf220a639f30
 Mairie - Noisy-sur-École,1 rue du Pont-de-l'Arcade 77123 Noisy-sur-École,6b0cc42a-eb39-4040-acec-143b2276bf9c
 Mairie - Nonville,Place de la Mairie 77140 Nonville,3a29483f-bda8-4003-9cee-a1163c844cd6
-Mairie - Notre-Dame-de-la-Mer,1 place de la Mairie  Hameau de la Haie-de-l'Ecu 78270 Notre-Dame-de-la-Mer,b81c5cae-d535-4f34-826d-42fa04b7c303
+Mairie - Notre-Dame-de-la-Mer,1 place de la Mairie 78270 Notre-Dame-de-la-Mer,b81c5cae-d535-4f34-826d-42fa04b7c303
 Mairie - Noyen-sur-Seine,1 ter rue de l'Église 77114 Noyen-sur-Seine,78e35317-fc9b-4e87-996e-ce3296f2f92b
 Mairie - Nozay,Place de la Mairie 91620 Nozay,68e11b0e-c7b8-402e-871d-b9d14bde4ea4
 Mairie - Nucourt,Rue de la Boutrolle 95420 Nucourt,c4bbcdb0-ed41-4588-9a0b-8c0fe47a9ea5
@@ -1200,7 +1198,7 @@ Mairie - Saulx-Marchais,Rue de la Mairie 78650 Saulx-Marchais,0861840e-4cd1-4d9b
 Mairie - Saulx-les-Chartreux,62 rue de la Division-Leclerc 91160 Saulx-les-Chartreux,4b822fce-6ea3-4b72-9460-6719a0fe0e8d
 Mairie - Savigny-le-Temple,1 place François-Mitterrand 77176 Savigny-le-Temple,9c0ef37d-8a4f-4e5f-a319-ab03a010d237
 Mairie - Savigny-sur-Orge,48 avenue Charles-de-Gaulle 91600 Savigny-sur-Orge,4960bbf4-7c26-46f7-b22e-d20028933563
-Mairie - Savins,Place de la Mairie 77650 Savins,44b1dfff-c72f-4b20-88ae-9ba3955d08bd
+Mairie - Savins,12 place de la Mairie 77650 Savins,44b1dfff-c72f-4b20-88ae-9ba3955d08bd
 Mairie - Saâcy-sur-Marne,Rue des Écoles 77730 Saâcy-sur-Marne,2e97da1f-ae48-436d-8744-a7e5dc0e6ffd
 Mairie - Sceaux,122 rue Houdan 92330 Sceaux,aaa8ccc5-73cc-4eb4-b48e-a4d8a61ea45d
 Mairie - Seine-Port,7 bis rue de Melun 77240 Seine-Port,71578eb0-be5e-4d5f-9812-94cfd4980f99
@@ -1244,7 +1242,7 @@ Mairie - Thiverval-Grignon,Grande rue 78850 Thiverval-Grignon,8dc84289-261e-4ead
 Mairie - Thoiry,3 place de la Fontaine 78770 Thoiry,da6913f0-b004-4776-a070-4cde46956a4f
 Mairie - Thomery,9 rue de la République 77810 Thomery,fff18490-6b35-46db-85b3-22d006eaa88a
 Mairie - Thorigny-sur-Marne,1 ter rue du Moustier 77400 Thorigny-sur-Marne,8075567f-e319-4494-a531-348ecb8a5a20
-Mairie - Thoury-Férrottes,Place de la Mairie 77940 Thoury-Férrottes,aebf319a-af33-431e-8915-18e2694cdf09
+Mairie - Thoury-Férrottes,3 allée de la Mairie 77940 Thoury-Férrottes,aebf319a-af33-431e-8915-18e2694cdf09
 Mairie - Théméricourt,3 rue Achim-d'Abos 95450 Théméricourt,26d487cf-cf4b-418d-81c9-0631ddd39a1c
 Mairie - Thénisy,5 place de la Mairie 77520 Thénisy,c3a8735a-aabd-4490-b0bc-3c574bf77efb
 Mairie - Tigeaux,28 rue du Grand-Morin 77163 Tigeaux,71360d75-145f-42cb-812e-237b1f140f62
@@ -1308,7 +1306,7 @@ Mairie - Videlles,1 rue de la Croix-Boissée 91890 Videlles,92eda53a-007a-4092-a
 Mairie - Vieille-Église-en-Yvelines,21 bis route de l'Étang-de-la-Tour 78125 Vieille-Église-en-Yvelines,4e60216d-4d5c-4a29-84e9-46abf1460ecc
 Mairie - Vienne-en-Arthies,18 route de la Mairie 95510 Vienne-en-Arthies,08dc65c6-ece9-4c27-b7e7-93f4428efe08
 Mairie - Vieux-Champagne,26 Grande rue 77370 Vieux-Champagne,5fb03662-2c6e-4732-b00c-96821173fe24
-Mairie - Vignely,24 bis Grande rue 77450 Vignely,6c97a2b2-4494-454b-9712-a7812a6d7850
+Mairie - Vignely,24 bis Grande-Rue 77450 Vignely,6c97a2b2-4494-454b-9712-a7812a6d7850
 Mairie - Vigneux-sur-Seine,75 rue Pierre-Marin 91270 Vigneux-sur-Seine,5de2ad82-d8f3-4ad0-a246-0aba7a3efcb3
 Mairie - Vigny,4 rue Beaudouin 95450 Vigny,84267bed-5f6b-48c5-a988-8d1771554abe
 Mairie - Villabé,34 bis avenue du 8-Mai-1945 91100 Villabé,0adbac33-0aec-4d3f-a51c-fffb5b84917d
@@ -1357,7 +1355,6 @@ Mairie - Villiers-le-Bâcle,Place de la Mairie 91190 Villiers-le-Bâcle,2abf8218
 Mairie - Villiers-le-Mahieu,18 rue du Centre 78770 Villiers-le-Mahieu,0cb7a12e-72ea-4da1-b49e-5d74d528515c
 Mairie - Villiers-le-Sec,5 rue de Paris 95720 Villiers-le-Sec,21fc5e3a-c364-4821-ac6f-ca8cd9b93e56
 Mairie - Villiers-sous-Grez,5 rue de Larchant 77760 Villiers-sous-Grez,b489a6af-2042-4234-b9aa-6e1773bc9471
-Mairie - Villiers-sur-Marne,Place de l'Hôtel de Ville 94350 Villiers-sur-Marne,66b5d2c8-dacf-4d76-b310-5777a1eb2f67
 Mairie - Villiers-sur-Morin,38 rue de Paris 77580 Villiers-sur-Morin,4b54bb84-d00d-410a-8d24-23ee7713082f
 Mairie - Villiers-sur-Orge,6 rue Jean-Jaurès 91700 Villiers-sur-Orge,5b5dce62-67a1-4acf-ae62-3ce0b5480402
 Mairie - Villiers-sur-Seine,1 bis Grande rue 77114 Villiers-sur-Seine,e9345b53-5c05-4fdb-bb37-38e860015e3d
@@ -1408,12 +1405,12 @@ Mairie - Évecquemont,32 bis rue d'Adhémar 78740 Évecquemont,7ee11b29-21f1-4b5
 Mairie - Évry-Courcouronnes,Place des Droits-de-l'Homme-et-du-Citoyen 91011 Évry-Courcouronnes,adbeceb5-b624-4fa5-a83a-ed06e4288f54
 Mairie - Évry-Grégy-sur-Yerres,20 bis allée du Château 77166 Évry-Grégy-sur-Yerres,b0a1e0dd-a779-484d-b610-d5e1516d980c
 Mairie - Ézanville,Place Jules-Rodet 95460 Ézanville,20ab445a-b563-4c6a-bb0b-817eb88a2b18
+Mairie annexe - Villiers-sur-Marne,"5, rue Léon-Dauer 94350 Villiers-sur-Marne",66b5d2c8-dacf-4d76-b310-5777a1eb2f67
 Mairie déléguée - Cucharmoy,Cucharmoy Place de l'Église Foyer rural 77160 Chenoise-Cucharmoy,fab144cc-9570-4bcd-ab19-32d996daaba3
 Mairie déléguée - Estouches,Hôtel de Ville Estouches 1 rue de la Mairie 91660 Le Mérévillois,014bb39a-edf3-4629-aced-f17b77f9472f
 Mairie déléguée - Fourqueux,Fourqueux  1 place de la Grille 78100 Saint-Germain-en-Laye,0f060e04-7e00-445e-be59-65f689433a7c
 Mairie déléguée - Gadancourt,39 Grande-Rue 95450 Avernes,4c693cdc-ebfe-45ea-8b94-6304931ece78
 Mairie déléguée - Pierrefitte-sur-Seine,Pierrefitte-sur-Seine 2 place de la Libération 93200 Saint-Denis,f2532de6-6c81-495c-b67c-d629248c0a97
-Mairie déléguée - Port-Villez,1 Place de la Mairie 78270 Notre-Dame-de-la-Mer,a246aecc-a966-4f32-acc6-e74a7844f9a4
 Mairie déléguée - Saint-Ange-le-Vieil,Saint-Ange-le-Vieil  2 rue de la Mairie 77710 Villemaréchal,7b29b528-ef41-4078-8472-0bf9ff3c6912
 Mairie déléguée - Veneux-les-Sablons,Veneux-les-Sablons  Place du 11-Novembre-1918 77250 Moret-Loing-et-Orvanne,9ae98d24-adb8-4336-acde-e709a1d66509
 Maison de justice et du droit  d'Argenteuil,9 RUE DES CELTES 95100 ARGENTEUIL,972cb169-7f7d-4c15-8263-fb64321a4e06
