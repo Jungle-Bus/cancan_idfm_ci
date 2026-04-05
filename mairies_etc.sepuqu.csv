@@ -105,7 +105,7 @@ Agence France Travail Saint-Ouen-l'Aumône,60 Rue de Paris 95310 Saint-Ouen-l'Au
 Agence France Travail Sainte-Geneviève-des-Bois,141 Route de Corbeil 91700 Sainte-Geneviève-des-Bois,5e29aa16-cb0d-4569-bb30-a243955f60ce
 Agence France Travail Sarcelles,43 Avenue Paul Valéry 95200 Sarcelles,9b061278-cfc3-48f0-b734-425697b326c8
 Agence France Travail Sartrouville,27 Rue Lamartine 78500 Sartrouville,7ebe6136-56ce-4a44-80ff-d3e23312df91
-Agence France Travail Savigny-le-Temple,29 Avenue Jules Vallès 77176 Savigny-le-Temple,b9c9a97b-d45d-40a7-b168-b2fb1aa8928e
+Agence France Travail Savigny-le-Temple,44 Rue du Laiton 77176 Savigny-le-Temple,b9c9a97b-d45d-40a7-b168-b2fb1aa8928e
 Agence France Travail Savigny-sur-Orge,11 Avenue du Garigliano 91600 Savigny-sur-Orge,9dcf8677-c111-489b-a78e-404d696caa63
 Agence France Travail Sevran,2 Rue Paul Langevin 93270 Sevran,2bcd40e9-ab99-4738-ac65-017ce469b3b2
 Agence France Travail Stains,35 Rue du Moulin Neuf 93240 Stains,fb027050-c8d5-4bd4-9998-4b41424ea9fe
@@ -678,6 +678,7 @@ Mairie - La Frette-sur-Seine,55 quai de Seine 95530 La Frette-sur-Seine,1afd5622
 Mairie - La Garenne-Colombes,68 boulevard de la République 92250 La Garenne-Colombes,5e02ab51-b295-43ee-9ca8-a510eccb79b3
 Mairie - La Genevraye,3 route de Nemours 77690 La Genevraye,a540095d-886e-4696-a999-73943a994d6e
 Mairie - La Grande-Paroisse,27 rue-Grande 77130 La Grande-Paroisse,a4b5c65a-c76b-4280-b255-6ac68d135c08
+Mairie - La Haute-Maison,15 le Village 77580 La Haute-Maison,0fbaf2a6-1cf7-48c5-9759-b459cad7a236
 Mairie - La Hauteville,Place du Village 78113 La Hauteville,1c2ef89d-b0c8-46d0-9f8b-7157086c6635
 Mairie - La Houssaye-en-Brie,Place du Maréchal-Augereau 77610 La Houssaye-en-Brie,fe6b78be-9e62-4bdb-97fd-64c4528a75f2
 Mairie - La Madeleine-sur-Loing,Place de la Mairie 77570 La Madeleine-sur-Loing,14c0d83d-f0fc-4245-a5a5-88bc4e0a00f4
@@ -699,7 +700,7 @@ Mairie - Lardy,70 Grande rue 91510 Lardy,3b4f3ac4-c509-4069-b1c6-d7eb676b6ddd
 Mairie - Lascelle,61 route du Volcan 15590 Lascelle,76df6647-10fa-4ae2-ab98-77865f5b9064
 Mairie - Lassy,Grande rue 95270 Lassy,d84d212f-c26f-4de3-be09-97bdf104b090
 Mairie - Laval-en-Brie,2 rue de la Fontaine-de-l'Érable 77148 Laval-en-Brie,c372fc6f-35b5-40c6-b0ce-b32cc7c83e91
-Mairie - Le Bellay-en-Vexin,1 Grande rue prolongée 95750 Le Bellay-en-Vexin,f65c0f27-c5bd-4c3f-a079-9a84462a91d7
+Mairie - Le Bellay-en-Vexin,1 Grande-Rue prolongée 95750 Le Bellay-en-Vexin,f65c0f27-c5bd-4c3f-a079-9a84462a91d7
 Mairie - Le Blanc-Mesnil,1 place Gabriel-Péri 93150 Le Blanc-Mesnil,d2636c0d-5766-4ab1-925e-708f7aba3051
 Mairie - Le Bourget,65 avenue de la Division-Leclerc 93350 Le Bourget,c4a49ae6-5b35-4b63-b805-e7f8ba71cb17
 Mairie - Le Chesnay-Rocquencourt,Le Chesnay  9 rue Pottier 78150 Le Chesnay-Rocquencourt,23434cbf-52d1-45bd-ae04-598c623ed220
@@ -1444,7 +1445,6 @@ Maison de justice et du droit  de Saint-Denis,16 RUE DES BOUCHERIES 93200 ST DEN
 Maison de justice et du droit  de Sarcelles,31 BIS AVENUE DU 8 MAI 1945 95200 SARCELLES,5617ad98-76ba-42ec-aee6-8379ef1db8f4
 Maison de justice et du droit  de Savigny-le-Temple,34 PLACE ELYSEE-RECLUS 77176 SAVIGNY LE TEMPLE,01680f0e-cc5d-46f2-a0ed-688bf9eda6cd
 Maison de justice et du droit  de St Quentin en Yvelines,PLACE FRANCOIS RABELAIS 78280 GUYANCOURT,0b77b953-0b93-420e-a907-47a956cc4d2b
-Maison de justice et du droit  de Val de Bièvre,65 RUE JEAN-JAURES 94800 VILLEJUIF,cb53b098-94c3-4d34-a384-a37e9202f912
 Maison de justice et du droit  de Villiers-le-Bel,2 RUE POMPOM 95400 VILLIERS LE BEL,184ec738-da2e-49e8-863a-3edf632c3ff5
 Maison de justice et du droit  des Mureaux,79 BD VICTOR HUGO 78130 LES MUREAUX,d5085ebe-a7ca-465d-9f49-950a84bde75f
 Maison de justice et du droit  des Ulis,AVENUE DE SAINTONGE 91940 LES ULIS,fb5ac14e-6dc8-4cef-8867-75faa37c6344
