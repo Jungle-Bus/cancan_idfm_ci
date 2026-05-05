@@ -6,7 +6,6 @@ Commissariat de police - Poste de Police Orly Tech,7 allée du Commandant Moucho
 Commissariat de police - Poste de plaintes Paris 6ème arrondissement,78 rue Bonaparte 75006 Paris Cedex 06,efb814dc-0a48-4057-b4f8-717dc0fe1d50
 Commissariat de police - Poste de plaintes Paris centre,61 rue Jean-Jacques Rousseau 75001 Paris Cedex 01,73cdfca8-4832-4c60-9f3e-a1c6333bf548
 Commissariat de police - Poste de plaintes de Paris 15e arrondissement,44 rue Linois 75015 Paris Cedex 15,a41dc7e2-52b2-47a6-9d02-5750bb249cb0
-Commissariat de police - Poste de plaintes de Paris 18e arrondissement,34 rue de la Goutte-d'Or 75018 Paris,1c38947d-2958-4e4b-aafe-b663a4e55b3b
 Commissariat de police - Poste de plaintes de Paris 19e arrondissement,3 rue Riquet 75019 Paris,e5593be1-8561-4f9b-b505-ef220b6bd801
 Commissariat de police - Poste de plaintes de Paris 8e arrondissement,1 rue de Lisbone 75008 Paris Cedex 8,ede12056-1e72-436f-a10e-42d456a93628
 Commissariat de police - Poste de plaintes de Paris 9e arrondissement,21 rue du Faubourg Saint-Antoine 75009 Paris,bf8f9c8b-3bc0-4806-88bc-9cf6debab642
@@ -29,6 +28,7 @@ Commissariat de police d'Épernay,1 rue du Général-Silvester 51200 Épernay,3d
 Commissariat de police d'Épinay-sur-Seine,40 rue de Quetigny 93800 Épinay-sur-Seine,415b33d0-1c2e-404b-811d-26dc4d1f93f1
 Commissariat de police d'Étampes,7 avenue de Paris 91150 Étampes,a64b6e8d-0c3f-4865-bae2-46e46ded20c7
 Commissariat de police de Bagneux,1 rue des Mathurins 92220 Bagneux,d1ae255c-caa6-4806-aeb3-623d977a589e
+Commissariat de police de Bagnolet,4 Rue Malmaison 93170 Bagnolet,79fc2fc3-ab28-4534-a1d5-2baeed03be06
 Commissariat de police de Bezons,24 avenue Gabriel-Péri 95870 Bezons,e824daf0-605e-4bae-8072-1bec3ae595ef
 Commissariat de police de Bobigny,45 rue de Carency 93000 Bobigny,8e246eb1-f0db-44f5-8598-308e6048346f
 Commissariat de police de Bois-Colombe,5 rue du 8 Mai 1945 92700 Colombes,a524bd79-21c0-4afa-a675-2fb0ae5698c0
@@ -210,7 +210,7 @@ Brigade de gendarmerie - Breuillet,75 route de Saint-Chéron 91650 Breuillet,9d8
 Brigade de gendarmerie - Bréval,29 rue René Dhal 78980 Bréval,39e40121-c713-4a08-ba2c-184110aacba6
 Brigade de gendarmerie - Chaumes-en-Brie,1 rue de Foix 77390 Chaumes-en-Brie,96ca724d-40ad-4915-9d4b-a7eaea5aeab3
 Brigade de gendarmerie - Chelles,17 avenue du gendarme Castermant 77500 Chelles,50eeef76-2b54-4150-aec4-ee67e793c0d4
-Brigade de gendarmerie - Château-Landon,5 rue André Gauquelin 77570 Château-Landon,d1655d94-4c7e-4133-a26b-820669eca6cc
+Brigade de gendarmerie - Château-Landon,3 rue André-Gauquelin 77570 Château-Landon,d1655d94-4c7e-4133-a26b-820669eca6cc
 Brigade de gendarmerie - Coulommiers,27 avenue de la République 77120 Coulommiers,ec29e051-b8a9-478a-8e42-354a610e83c0
 Brigade de gendarmerie - Dammartin-en-Goële,64 avenue de l'Europe 77230 Dammartin-en-Goële,807cfc74-ee6d-4ec7-bddd-1ff860837e6f
 Brigade de gendarmerie - Dourdan,1 rue de la Gironde 91410 Dourdan,86e1458f-b5c8-4f4b-889e-201a15691b7f
@@ -240,7 +240,7 @@ Brigade de gendarmerie - Magny-les-Hameaux,1 rue Marc-Antoine Charpentier 78114 
 Brigade de gendarmerie - Marolles-en-Hurepoix,34 rue du Potager 91630 Marolles-en-Hurepoix,415fd252-3d54-499a-95c8-8a07cc087570
 Brigade de gendarmerie - Maule,35 boulevard Paul Barré 78580 Maule,7aedeb6a-82d0-4cf8-90ae-8a7586be4418
 Brigade de gendarmerie - Melun,3 rue André Malraux 77000 Melun,7f89ad98-729f-45a0-af6f-dbc455f2f606
-Brigade de gendarmerie - Mennecy,10 avenue de Villeroy 91540 Mennecy,985c4e3a-dbfb-43f0-aa77-98d6cbed1c48
+Brigade de gendarmerie - Mennecy,2 rue Colonel Arnaud-Beltrame 91540 Mennecy,985c4e3a-dbfb-43f0-aa77-98d6cbed1c48
 Brigade de gendarmerie - Milly-la-Forêt,30 avenue du Général Leclerc 91490 Milly-la-Forêt,4a6a046c-5f4a-4fdc-afdf-340dd7226001
 Brigade de gendarmerie - Montfort-l'Amaury,70 rue de Paris 78490 Montfort-l'Amaury,3e999f7b-177f-4b98-a985-7cd0c145f1f9
 Brigade de gendarmerie - Montmorency,2 rue des Gallerands 95160 Montmorency,91aab18a-2656-469e-952a-e51fbeb85cba
@@ -255,9 +255,9 @@ Brigade de gendarmerie - Palaiseau,2 rue Gutenberg 91120 Palaiseau,5b86bb76-a454
 Brigade de gendarmerie - Persan,26 avenue Jean Jaurès 95340 Persan,e83524e9-5b55-45b4-8baa-b62461e9dee6
 Brigade de gendarmerie - Pontoise,Caserne Lange  5 boulevard de l'Hautil 95000 Pontoise,a5fb5bd6-a5bc-4a93-be0c-a6386847bec4
 Brigade de gendarmerie - Rambouillet,1 rue Louis Pasteur 78120 Rambouillet,9856147b-f7f7-4ee5-8845-0b92f83df551
-Brigade de gendarmerie - Rebais,Avenue Jean de la Fontaine 77510 Rebais,58f2f87b-4c3e-410c-a5a7-1e5de7714bf2
+Brigade de gendarmerie - Rebais,180 avenue Jean-de-la-Fontaine 77510 Rebais,58f2f87b-4c3e-410c-a5a7-1e5de7714bf2
 Brigade de gendarmerie - Roissy-en-France,3 chemin de la Vallée 95700 Roissy-en-France,58ef6427-d98d-4551-803e-bb3c5b147bec
-Brigade de gendarmerie - Rozay-en-Brie,Rue des Etangs 77540 Rozay-en-Brie,432ce5fc-6973-4d31-85ad-8a6a5be29444
+Brigade de gendarmerie - Rozay-en-Brie,6 Chemin des Etangs 77540 Rozay-en-Brie,432ce5fc-6973-4d31-85ad-8a6a5be29444
 Brigade de gendarmerie - Saint-Arnoult-en-Yvelines,20 rue Jean Moulin 78730 Saint-Arnoult-en-Yvelines,792c3e53-0394-4be3-a9ec-dcf3be8cb06a
 Brigade de gendarmerie - Saint-Chéron,6 impasse Vauvilliers 91530 Saint-Chéron,bf783220-d80b-4584-a7ab-98b0a67eb869
 Brigade de gendarmerie - Saint-Germain-en-Laye,3 rue du Panorama 78100 Saint-Germain-en-Laye,30809dcd-0ce2-4bfa-96c8-dc8c79562c79
@@ -598,7 +598,7 @@ Police municipale - Pontoise,Rue du Premier-Dragon 95000 Pontoise,95577ba9-7549-
 Police municipale - Porcheville,17 boulevard de la République 78440 Porcheville,c26ac6e5-b04f-4803-8c6a-cb4c6c84cb9a
 Police municipale - Presles,78 rue Pierre-Brossolette 95590 Presles,0ff0cf7d-5b93-417d-ae3d-7511b252581c
 Police municipale - Pringy,1 bis rue des Écoles 77310 Pringy,671fec10-4808-43e3-bb45-5a04ced02678
-Police municipale - Provin,5 place du Général-Leclerc 77160 Provin,7db09cd0-8b0f-4ef9-9020-f414960ed3bd
+Police municipale - Provins,20 place Saint-Ayoul 77160 Provins,7db09cd0-8b0f-4ef9-9020-f414960ed3bd
 Police municipale - Quincy-sous-Sénart,5 rue de Combs-La-Ville 91480 Quincy-sous-Sénart,4c8dc655-5e9a-4080-9cc9-7615914abf31
 Police municipale - Rambouillet,9 rue du Village 78120 Rambouillet,a562c6c6-193f-4472-abc8-fc1504c582a6
 Police municipale - Ris-Orangis,3 rue Jean-Moulin 91130 Ris-Orangis,f53b9ac9-7e68-437a-99e4-c51bc9b9a06d
